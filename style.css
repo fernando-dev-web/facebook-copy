@@ -1,3 +1,6 @@
+.geral{
+    height: 50vh;
+}
 .container-fluid{
     height: 100vh;
     
@@ -8,11 +11,18 @@
 h1{
     font-size: 2.5rem !important;
 }
+
+
 .text{
+    max-width: 200px !important;
     font-size: 1.5rem;
-    
-    max-width: 500px;
 }
-.container-sm{
+form{
     
+    max-width: 760px !important;
+    height: 100%;
+    box-shadow: 1px 1px 5px rgba(182, 180, 180, 0.74);
+}
+.btn{
+    width: 100%;
 }
