@@ -1,0 +1,44 @@
+.geral{
+    height: 50vh;
+}
+figcaption{
+    display: none;
+}
+.container-fluid{
+    height: 100vh;
+    
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+}
+h1{
+    font-size: 2.5rem !important;
+}
+
+
+.h2{
+    line-height: 28px;
+    max-width: 500px !important;
+    margin-left: 30px !important;
+    padding: 0px !important;
+    font-weight: normal !important;
+    font-size: 1.7rem !important;
+}
+.info-1{
+    width: 500px !important;
+}
+
+form{
+    
+    max-width: 400px !important;
+    
+    height: 100%;
+    box-shadow: 1px 1px 5px rgba(182, 180, 180, 0.74);
+}
+.btn{
+    width: 100%;
+}
+.newUser{
+    background-color: #36A420 !important;
+    border: #36A420 !important;
+}
