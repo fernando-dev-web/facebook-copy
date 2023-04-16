@@ -42,15 +42,3 @@ form{
     background-color: #36A420 !important;
     border: #36A420 !important;
 }
-.celebridade{
-    margin-top: 30px;
-    max-width: 400px;
-    
-}
-.link-dark{
-    text-decoration: none;
-    font-weight: bold;
-}
-.link-dark:hover{
-    text-decoration: underline;
-}
